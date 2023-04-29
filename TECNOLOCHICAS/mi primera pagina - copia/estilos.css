@@ -1,0 +1,19 @@
+body{ background-color: rgb(25, 26, 25);
+    / font-family: "roboto", sans-serif;
+}
+
+h2{color:rgb(121, 209, 158);
+text-align: center;
+}
+p{
+    color: rgb(125, 219, 125);
+font-size:24px;
+font-style: italic;
+text-align: center;
+}
+h1{text-align: center;
+}
+img{
+    height: 150;
+    width: 250;
+}
